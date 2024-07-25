@@ -1,2 +1,2 @@
 # OT-Intro
-Contenidos mínimos para poder ingresar a los CTF
+Contenidos mínimos para poder comprender las actividades del Village ICS de Ekoparty
